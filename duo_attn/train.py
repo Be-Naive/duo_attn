@@ -77,6 +77,7 @@ def train(
     if rank == 0:
         pbar = tqdm(range(args.num_steps))
 
+    print(f"LOCAL_RANK: {os.getenv('LOCAL_RANK')}")
     local_rank = int(os.environ["LOCAL_RANK"])
 
     global_step = 0

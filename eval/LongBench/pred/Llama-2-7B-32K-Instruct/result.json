@@ -1,0 +1,10 @@
+{
+    "narrativeqa-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.0.jsonl": 21.44,
+    "narrativeqa-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.5.jsonl": 23.83,
+    "narrativeqa-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.75.jsonl": 23.96,
+    "qasper-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.0.jsonl": 29.59,
+    "qasper-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.5.jsonl": 32.44,
+    "samsum-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.0.jsonl": 35.15,
+    "samsum-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.5.jsonl": 41.33,
+    "samsum-duo_attn-pattern-lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10-sp-0.75.jsonl": 42.24
+}

@@ -179,3 +179,9 @@ cython_debug/
 
 *.code-workspace
 my_snapshot*
+
+#h2o
+h2o_hf/
+
+#BSA
+Block-Sparse-Attention/
